@@ -8,5 +8,5 @@
 ### Skills
 [![# Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs,git,github,vercel,figma,docker&theme=dark)](https://skillicons.dev)
 
-## Visitors Count
+### Visitors Count
 ![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
